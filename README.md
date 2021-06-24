@@ -1,2 +1,2 @@
 # Searcher
-android searcher ui with jetpack composes
+android searcher ui with jetpack compose
