@@ -1,5 +1,3 @@
-package team.bravepeople.devevent.ui.searcher
-
 import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
